@@ -1,2 +1,0 @@
-// clienturlthread.h
-

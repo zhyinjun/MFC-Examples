@@ -1,8 +1,0 @@
-NAME      DATEST16
-EXETYPE   WINDOWS
-CODE      PRELOAD MOVEABLE DISCARDABLE
-DATA      PRELOAD MOVEABLE MULTIPLE
-HEAPSIZE  1024
-
-EXPORTS
-;    ===List your explicitly exported functions here===

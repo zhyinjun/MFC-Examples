@@ -1,3 +1,0 @@
-#include <winnt.h>
-#include "WatchDog.ver"
-#include "messages.rc"

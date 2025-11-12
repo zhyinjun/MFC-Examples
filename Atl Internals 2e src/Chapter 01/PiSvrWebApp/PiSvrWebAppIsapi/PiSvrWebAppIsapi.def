@@ -1,8 +1,0 @@
-; PiSvrWebAppIsapi.def : declares the module parameters for the DLL.
-
-LIBRARY	     "PiSvrWebAppIsapi"
-
-EXPORTS
-	HttpExtensionProc
-	GetExtensionVersion
-	TerminateExtension

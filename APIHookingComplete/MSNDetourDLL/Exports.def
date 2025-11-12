@@ -1,3 +1,0 @@
-LIBRARY MSNDetourDll
-EXPORTS
-	DetourAndErrorCheck	@1

@@ -1,7 +1,0 @@
-; plot.def : Declares the module parameters for the DLL.
-
-LIBRARY      "clPlot"
-DESCRIPTION  'RT Plot DLL'
-
-EXPORTS
-    ; Explicit exports can go here

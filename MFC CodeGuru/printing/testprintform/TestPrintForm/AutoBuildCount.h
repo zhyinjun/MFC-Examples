@@ -1,6 +1,0 @@
-// 48
-#ifndef AUTOBUILDCOUNT_H
-#define AUTOBUILDCOUNT_H
-#define BUILDCOUNT_NUM 48
-#define BUILDCOUNT_STR "48"
-#endif

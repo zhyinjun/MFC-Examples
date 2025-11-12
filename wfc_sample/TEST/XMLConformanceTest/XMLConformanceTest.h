@@ -1,8 +1,0 @@
-#if ! defined( XML_CONFORMANCE_TEST_HEADER_FILE )
-
-#define XML_CONFORMANCE_TEST_HEADER_FILE
-
-#define WINVER 0x401
-#include <wfc.h>
-
-#endif // XML_CONFORMANCE_TEST_HEADER_FILE

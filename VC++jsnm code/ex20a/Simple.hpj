@@ -1,8 +1,0 @@
-[OPTIONS]
-CONTENTS=HID_CONTENTS
-TITLE=SIMPLE Application Help
-COMPRESS=true
-WARNING=2
-
-[FILES]
-Simple.rtf

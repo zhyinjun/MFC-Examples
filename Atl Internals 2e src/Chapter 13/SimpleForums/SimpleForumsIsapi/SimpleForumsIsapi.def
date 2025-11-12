@@ -1,8 +1,0 @@
-; SimpleForumsIsapi.def : declares the module parameters for the DLL.
-
-LIBRARY	     "SimpleForumsIsapi"
-
-EXPORTS
-	HttpExtensionProc
-	GetExtensionVersion
-	TerminateExtension
